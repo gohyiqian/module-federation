@@ -1,4 +1,6 @@
-# Module Federation
+# Micro-Frontend Architecture
+
+## Module Federation
 
 - Introduces in Webpack 5
 - We can share bundles across 2 standalone applications that run separately
